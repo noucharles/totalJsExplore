@@ -12,6 +12,7 @@
     "total.js": "latest"
   },
   "scripts": {
+    "start": "node debug.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
